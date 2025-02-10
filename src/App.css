@@ -58,6 +58,10 @@ nav ul{
   font-size: 20px;
   padding-bottom: 40px;
 }
+.buttons-shop{
+  display: flex;
+  justify-items: auto;
+}
 .hero #button1 {
   all: unset;
   padding: 6px 16px;
@@ -65,18 +69,18 @@ nav ul{
   height: 32px;
   color: white;
   font-weight: 500;
-  border-radius: 10%;
+  border-radius: 5%;
   gap: 14px;
-  padding-right: 14px;
+  margin-bottom: 30px;
 }
-
 .hero #button2 {
   all: unset;
   padding: 6px 16px;
-  background: var( --red);
+  padding-left: 10px;
+  background: var( --grey);
   height: 32px;
   color: white;
   font-weight: 500;
-  border-radius: 10%;
-  gap: 14px;
+  border-radius: 5%;
+  margin-bottom: 30px;
 }
