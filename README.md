@@ -1,5 +1,7 @@
 A "SIMPLE" Nike landing page designed using React.
 
+![Output](![Alt text](https://github.com/user/repo/assets/123456/image.png)
+)
 
 
 Currently, two official plugins are available:
