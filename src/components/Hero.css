@@ -1,0 +1,30 @@
+.amazon {
+    width: 32px; /* Set width */
+    height: 32px; /* Maintain aspect ratio */
+}
+
+.flipcart{
+    width: 32px;
+    height: 32px;
+}
+
+.shoe{
+    width: 700px;  
+    height: 430px;
+}
+
+.Shopping {
+    padding: 3px;
+    gap: 10px;
+}
+
+.Shopping .flipcart{
+    padding: 5px;
+}
+.Shopping .amazon{
+    padding: 5px;
+}
+.hero-content .buttons-shop{
+    gap: 40px;
+}
+
