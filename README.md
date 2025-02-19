@@ -1,6 +1,8 @@
-# React + Vite
+A "SIMPLE" Nike landing page designed using React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Output](https://github.com/jallpatell/nike-landing-page/blob/master/Screenshot%202025-02-11%20at%2005.20.54.png)
+
+
 
 Currently, two official plugins are available:
 
